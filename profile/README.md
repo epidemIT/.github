@@ -8,10 +8,10 @@ Dengan memanfaatkan teknik gamifikasi, EpidemIT memberikan insentif belajar dan 
 
 ## Team Members (Team FOCUS)
 - Auvarifqi Putra Diandra (Hustler, AI/ML Engineer)
-- Ucha (UI/UX Designer)
-- Gibran Fasha Ghazanfar (Fullstack Engineer, DevOps Engineer)
-- Nicholas (AI/ML Engineer, Frontend Engineer)
-- Mochamad Syahrial Alzaidan (Fullstack Engineer)
+- Ucha (Hustler, UI/UX Designer)
+- Gibran Fasha Ghazanfar (Hustler, Fullstack Engineer, DevOps Engineer)
+- Nicholas (Hustler, AI/ML Engineer, Frontend Engineer)
+- Mochamad Syahrial Alzaidan (Hustler, Fullstack Engineer)
 
 ## Website URL
 - [EpidemIT](https://main.d1iex298jj9b2k.amplifyapp.com)
