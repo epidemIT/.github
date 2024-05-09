@@ -90,3 +90,52 @@ Terdapat 3 repository dalam github organization ini, yaitu EpidemIT-Frontend, Ep
 ### Sign Up Page
 
 <img src="./profile/screenshots/signup.png" alt="sign-up-page">
+
+### MentorMiit (Find Mentor Page)
+
+<img src="./profile/screenshots/mentormiit.png" alt="find-mentor-page">
+
+### Mentor Details
+
+<img src="./profile/screenshots/mentor-details.png" alt="mentor-details">
+
+### Mentor Schedulling 1
+
+<img src="./profile/screenshots/mentor-scheduling.png" alt="mentor-scheduling-1">
+
+### Mentor Schedulling 2 (Confirm Booking Mentor)
+
+<img src="./profile/screenshots/confirm-booking-mentor.png" alt="mentor-scheduling-2">
+
+
+### ProjectiT (Find Project Based Learning Page)
+
+<img src="./profile/screenshots/projectit.png" alt="find-project-page">
+
+### Project Details
+
+<img src="./profile/screenshots/project-details.png" alt="project-details">
+
+### Financial Aid For Project Based Learning 1
+
+<img src="./profile/screenshots/financial-aid-1.png" alt="financial-aid-1">
+
+### Financial Aid For Project Based Learning 2
+
+<img src="./profile/screenshots/financial-aid-2.png" alt="financial-aid-2">
+
+### Dashboard Page (Main)
+
+<img src="./profile/screenshots/dashboard-main.png" alt="dashboard-main">
+
+### Dashboard Page (Mentors)
+
+<img src="./profile/screenshots/dashboard-mentors.png" alt="dashboard-mentors">
+
+### Dashboard Page (Projects)
+
+<img src="./profile/screenshots/dashboard-projects.png" alt="dashboard-projects">
+
+### Project Based Learning Materials/Modules Page (Content)
+
+<img src="./profile/screenshots/materials.png" alt="project-materials">
