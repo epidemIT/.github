@@ -1,5 +1,18 @@
 # <h1 align="center"> EpidemIT - Frontend, Backend, and ML - Slashcom X Hackathon 2024 ✨ </h1>
 
+## About
+
+EpidemIT muncul sebagai platform pendidikan IT berbasis web yang didedikasikan untuk memberikan kesempatan belajar komprehensif yang dapat diakses oleh individu dengan disabilitas atau mereka yang menghadapi keterbatasan keuangan kapanpun dan di manapun. Nama "EpidemIT" sendiri berasal dari kata "Epidemic" yang berarti penyebaran cepat, yang mencerminkan tujuan platform untuk menyebarluaskan pendidikan IT secara luas dan efektif dan inkulsif . EpidemIT menawarkan dua layanan inti, yaitu "Learn with Mentor" dan "Project Based Learning". EpidemIT mengintegrasikan teknologi AI terkini termasuk text-to-speech, text summarizer, dan content-based filtering untuk meningkatkan pengalaman belajar. Selain itu, platform ini memberikan dukungan bantuan keuangan kepada pengguna yang kurang mampu secara ekonomi, memastikan akses yang adil terhadap sumber daya pendidikan.
+
+Dengan memanfaatkan teknik gamifikasi, EpidemIT memberikan insentif belajar dan meningkatkan keterlibatan pengguna melalui tantangan interaktif, reward, dan mekanisme pelacakan kemajuan (level). Fitur pembelajaran berbasis proyek dirancang dengan baik untuk menarik minat pengguna dengan materi belajar interaktif dan dinamis sehingga dapat memupuk semangat dan keterlibatan yang berkelanjutan. Selaras dengan Sustainable Development Goals (SDGs) 4 (Quality Education) dan 8 (Decent Work and Economic Growth), EpidemIT berupaya memberdayakan individu dan masyarakat melalui pendidikan sehingga mempromosikan inklusi sosial dan pemberdayaan ekonomi secara global.
+
+## Team Members (Team FOCUS)
+- Auvarifqi Putra Diandra (Hustler, AI/ML Engineer)
+- Ucha (UI/UX Designer)
+- Gibran Fasha Ghazanfar (Fullstack Engineer, DevOps Engineer)
+- Nicholas (AI/ML Engineer, Frontend Engineer)
+- Mochamad Syahrial Alzaidan (Fullstack Engineer)
+
 ## Repository
 Terdapat 3 repository dalam github organization ini, yaitu EpidemIT-Frontend, EpidemIT-Backend, dan EpidemIT-ML.
 
@@ -7,7 +20,7 @@ Terdapat 3 repository dalam github organization ini, yaitu EpidemIT-Frontend, Ep
 
 **Frontend:** Next.js 13.5.6, Typescript, TailwindCSS
 
-**Backend:** Go, GoFiber, CockroachDB, PostgreSQL
+**Backend:** Go, GoFiber, CockroachDB, PostgreSQL, DatoCMS (Headless CMS)
 
 **ML:** Next.js 14.2.3, Typescript, Flask, Python, Jupyter Notebook
 
