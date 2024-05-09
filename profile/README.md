@@ -13,6 +13,9 @@ Dengan memanfaatkan teknik gamifikasi, EpidemIT memberikan insentif belajar dan 
 - Nicholas (AI/ML Engineer, Frontend Engineer)
 - Mochamad Syahrial Alzaidan (Fullstack Engineer)
 
+## Website URL
+- [EpidemIT](https://main.d1iex298jj9b2k.amplifyapp.com)
+
 ## Repository
 Terdapat 3 repository dalam github organization ini, yaitu EpidemIT-Frontend, EpidemIT-Backend, dan EpidemIT-ML.
 
