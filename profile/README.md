@@ -3,6 +3,16 @@
 ## Repository
 Terdapat 3 repository dalam github organization ini, yaitu EpidemIT-Frontend, EpidemIT-Backend, dan EpidemIT-ML.
 
+## Tech Stack
+
+**Frontend:** Next.js 13.5.6, Typescript, TailwindCSS
+
+**Backend:** Go, GoFiber, CockroachDB, PostgreSQL
+
+**ML:** Next.js 14.2.3, Typescript, Flask, Python, Jupyter Notebook
+
+**Deployment:** AWS Amplify (Frontend and ML), GCP (Backend), Docker (Containerization)
+
 ## Branching
 
 -   `main` branch adalah branch utama yang digunakan untuk deploy ke production
@@ -53,3 +63,17 @@ Terdapat 3 repository dalam github organization ini, yaitu EpidemIT-Frontend, Ep
 4. Nyalakan docker desktop
 5. Buka terminal di Visual Studio Code dan run `docker build --tag EpidemIT-backend .`
 6. Tunggu sampai selesai build, dan cari image hasil build di docker desktop dan klik tombol Run untuk membuat container dan menjalankannya, untuk pilihan Port dibebaskan ya.
+
+## Screenshots of Application
+
+### Landing Page
+
+<img src="./profile/screenshots/landing.png" alt="landing-page">
+
+### Login Page
+
+<img src="./profile/screenshots/login.png" alt="login-page">
+
+### Sign Up Page
+
+<img src="./profile/screenshots/signup.png" alt="sign-up-page">
