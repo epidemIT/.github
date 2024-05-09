@@ -23,11 +23,11 @@ Terdapat 3 repository dalam github organization ini, yaitu EpidemIT-Frontend, Ep
 
 **Frontend:** Next.js 13.5.6, Typescript, TailwindCSS
 
-**Backend:** Go, GoFiber, CockroachDB, PostgreSQL, DatoCMS (Headless CMS)
+**Backend:** Go, GoFiber, GORM, CockroachDB, PostgreSQL, DatoCMS (Headless CMS)
 
 **ML:** Next.js 14.2.3, Typescript, Flask, Python, Jupyter Notebook
 
-**Deployment:** AWS Amplify (Frontend and ML), GCP (Backend), Docker (Containerization)
+**Deployment:** AWS Amplify (Frontend and ML), GCP; Artifact Registry, Cloud Build, Cloud Run (Backend), Docker (Containerization)
 
 ## Branching
 
