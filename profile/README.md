@@ -104,11 +104,11 @@ Terdapat 3 repository dalam github organization ini, yaitu EpidemIT-Frontend, Ep
 
 <img src="./profile/screenshots/mentor-details.png" alt="mentor-details">
 
-### Mentor Schedulling 1
+### Mentor Scheduling 1
 
 <img src="./profile/screenshots/mentor-scheduling.png" alt="mentor-scheduling-1">
 
-### Mentor Schedulling 2 (Confirm Booking Mentor)
+### Mentor Scheduling 2 (Confirm Booking Mentor)
 
 <img src="./profile/screenshots/confirm-booking-mentor.png" alt="mentor-scheduling-2">
 
