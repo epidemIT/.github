@@ -25,7 +25,7 @@ Terdapat 3 repository dalam github organization ini, yaitu EpidemIT-Frontend, Ep
 
 **Backend:** Go, GoFiber, GORM, CockroachDB, PostgreSQL, DatoCMS (Headless CMS), Postman API, DBeaver
 
-**ML:** Next.js 14.2.3, Typescript, Flask, Python, Jupyter Notebook
+**ML:** Next.js 14.2.3, Typescript, Flask, Python, Jupyter Notebook, Postman API, DBeaver
 
 **Deployment:** AWS Amplify (Frontend and ML), GCP; Artifact Registry, Cloud Build, Cloud Run (Backend), Docker (Containerization)
 
