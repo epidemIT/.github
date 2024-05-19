@@ -4,11 +4,12 @@
 
 EpidemIT muncul sebagai platform pendidikan IT berbasis web yang didedikasikan untuk memberikan kesempatan belajar komprehensif yang dapat diakses oleh individu dengan disabilitas atau mereka yang menghadapi keterbatasan keuangan kapanpun dan di manapun. Nama "EpidemIT" sendiri berasal dari kata "Epidemic" yang berarti penyebaran cepat, yang mencerminkan tujuan platform untuk menyebarluaskan pendidikan IT secara luas dan efektif dan inkulsif . EpidemIT menawarkan dua layanan inti, yaitu "Learn with Mentor" dan "Project Based Learning". EpidemIT mengintegrasikan teknologi AI terkini termasuk text-to-speech, text summarizer, dan content-based filtering untuk meningkatkan pengalaman belajar. Selain itu, platform ini memberikan dukungan bantuan keuangan kepada pengguna yang kurang mampu secara ekonomi, memastikan akses yang adil terhadap sumber daya pendidikan.
 
-Dengan memanfaatkan teknik gamifikasi, EpidemIT memberikan insentif belajar dan meningkatkan keterlibatan pengguna melalui tantangan interaktif, reward, dan mekanisme pelacakan kemajuan (level). Fitur pembelajaran berbasis proyek dirancang dengan baik untuk menarik minat pengguna dengan materi belajar interaktif dan dinamis sehingga dapat memupuk semangat dan keterlibatan yang berkelanjutan. Selaras dengan Sustainable Development Goals (SDGs) 4 (Quality Education) dan 8 (Decent Work and Economic Growth), EpidemIT berupaya memberdayakan individu dan masyarakat melalui pendidikan sehingga mempromosikan inklusi sosial dan pemberdayaan ekonomi secara global.
+Dengan memanfaatkan teknik gamifikasi, EpidemIT memberikan insentif belajar dan meningkatkan keterlibatan pengguna melalui tantangan interaktif, reward, dan mekanisme pelacakan kemajuan (level). Fitur pembelajaran berbasis proyek dirancang dengan baik untuk menarik minat pengguna dengan materi belajar interaktif dan dinamis sehingga dapat memupuk semangat dan keterlibatan yang berkelanjutan. Selaras dengan Sustainable Development Goals (SDGs) 4 (Quality Education), 8 (Decent Work and Economic Growth), dan 10 (Reduced Inequalities
+), EpidemIT berupaya memberdayakan individu dan masyarakat melalui pendidikan sehingga mempromosikan inklusi sosial dan pemberdayaan ekonomi secara global.
 
 ## Team Members (Team FOCUS)
 - Auvarifqi Putra Diandra (Hustler, AI/ML Engineer)
-- Ucha (Hustler, UI/UX Designer)
+- Nurshafa Qanita (Hustler, UI/UX Designer)
 - Gibran Fasha Ghazanfar (Hustler, Fullstack Engineer, DevOps Engineer)
 - Nicholas (Hustler, AI/ML Engineer, Frontend Engineer)
 - Mochamad Syahrial Alzaidan (Hustler, Fullstack Engineer)
